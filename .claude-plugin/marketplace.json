@@ -1,0 +1,12 @@
+{
+  "name": "potrai",
+  "owner": { "name": "Potrai", "url": "https://www.potrai.com" },
+  "metadata": { "description": "Strumenti Potrai per i creator: reel animati fatti in codice." },
+  "plugins": [
+    {
+      "name": "fammi-un-reel",
+      "source": "./plugin",
+      "description": "Reel e pubblicità verticali animati, fatti interamente in codice, in tanti stili: la tua Claude scrive, disegna, monta e controlla."
+    }
+  ]
+}

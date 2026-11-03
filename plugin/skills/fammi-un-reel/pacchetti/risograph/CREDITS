@@ -1,0 +1,68 @@
+«Ci devo pensare» — reel in stile Risograph Print. Materiali di terzi presenti nel film e loro licenze.
+
+VOCE
+- Voce fuori campo: ElevenLabs, voce "GianP", fornita dal cliente (vo.mp3). Uso secondo i termini del suo account ElevenLabs.
+
+FONT (SIL Open Font License 1.1, file in fonts/)
+- Bricolage Grotesque (Ateliertriay), https://github.com/google/fonts/tree/main/ofl/bricolagegrotesque
+- Jost (indestructible type*), https://github.com/google/fonts/tree/main/ofl/jost
+
+MUSICA
+- Partitura originale scritta per questo film (music/score.py). Rhodes, fischio, spazzole e cassa sintetizzati in codice.
+- Strumenti campionati, dalla libreria Lemo-Opuscar (core/audio/sampler.py):
+  Samples (CC0): Karoryfer Samples / sfzinstruments, Versilian Community Sample Library (Versilian Studios)
+
+EFFETTI SONORI (registrazioni vere, pubblico dominio / CC0; 47 suoni, messi sul fotogramma con opus-sound-layer)
+- boom/fs-13862-10-wav-1: "10.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/13862
+- boom/fs-636624-deep-hit-2: "Deep hit" by CogFireStudios, CC0, https://freesound.org/people/CogFireStudios/sounds/636624
+- chime/fs-127149-ding-wav-1: "ding.wav" by Daphne_in_Wonderland, CC0, https://freesound.org/people/Daphne_in_Wonderland/sounds/127149
+- chime/fs-404104-glass-ding-3: "Glass ding" by Counter-gamer, CC0, https://freesound.org/people/Counter-gamer/sounds/404104
+- hit/fs-269028-face-punch-3-1: "Face Punch (3)" by johnfolker, CC0, https://freesound.org/people/johnfolker/sounds/269028
+- hit/fs-452609-door-wood-old-heavy-kick-ope-1: "door wood old heavy kick open good impact 1 with rattle 1 without.wav" by kyles, CC0, https://freesound.org/people/kyles/sounds/452609
+- key/fs-194795-vintage-keyboard-1-1: "Vintage Keyboard 1" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194795
+- key/fs-194796-vintage-keyboard-2-1: "Vintage Keyboard 2" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194796
+- key/fs-194797-vintage-keyboard-3-1: "Vintage Keyboard 3" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194797
+- paper/fs-140463-packaging-paper-rub-sliding-1: "Packaging Paper Rub Sliding Between Hands.wav" by afleetingspeck, CC0, https://freesound.org/people/afleetingspeck/sounds/140463
+- paper/fs-151221-page-turn-2-2: "Page Turn (2)" by OwlStorm, CC0, https://freesound.org/people/OwlStorm/sounds/151221
+- paper/fs-389442-paper-throw-into-air-fuller-3: "Paper Throw Into Air(fuller) 2.wav" by RossBell, CC0, https://freesound.org/people/RossBell/sounds/389442
+- paper/fs-397550-page-turn-03-wav-2: "Page Turn 03.wav" by MATRIXXX_, CC0, https://freesound.org/people/MATRIXXX_/sounds/397550
+- paper/fs-397551-page-turn-04-wav-3: "Page Turn 04.wav" by MATRIXXX_, CC0, https://freesound.org/people/MATRIXXX_/sounds/397551
+- paper/fs-428338-underlining-stroke-on-paper-1: "Underlining Stroke on Paper" by zembacraftworks, CC0, https://freesound.org/people/zembacraftworks/sounds/428338
+- paper/fs-442857-page-turn-1: "Page Turn" by qubodup, CC0, https://freesound.org/people/qubodup/sounds/442857
+- paper/fs-484920-page-slides-1-3: "Page Slides - 1" by SpaceJoe, CC0, https://freesound.org/people/SpaceJoe/sounds/484920
+- paper/fs-614080-page-turn-2-2: "Page Turn 2" by mateusboga, CC0, https://freesound.org/people/mateusboga/sounds/614080
+- paper/own-ov-1e108f5d: ink jet printer by launemax, https://freesound.org/people/launemax/sounds/250021, CC0
+- paper/own-ov-ab7f390e: epson_sc600.ogg by Felfa, https://freesound.org/people/Felfa/sounds/234441, CC0
+- pop/fs-187342-wine-bottle-opening-wav-1: "Wine Bottle Opening.wav" by baidonovan, CC0, https://freesound.org/people/baidonovan/sounds/187342
+- pop/fs-206152-bottlepop44-wav-1: "bottlepop44.wav" by ahill86, CC0, https://freesound.org/people/ahill86/sounds/206152
+- pop/fs-253956-bubble-pop-1: "Bubble Pop" by Mafon2, CC0, https://freesound.org/people/Mafon2/sounds/253956
+- pop/fs-347353-squeaky-cork-pull-1: "Squeaky cork pull" by Kinoton, CC0, https://freesound.org/people/Kinoton/sounds/347353
+- pop/fs-503162-mouth-pops-magic-bottle-cork-3: "MOUTH POPS - MAGIC BOTTLE CORK OPEN.wav" by BathroomCrooner, CC0, https://freesound.org/people/BathroomCrooner/sounds/503162
+- reverse/fs-503803-reverse-fx-13-wav-1: "reverse fx 13.wav" by neezen., CC0, https://freesound.org/people/neezen./sounds/503803
+- reverse/fs-503804-reverse-fx-2-wav-1: "reverse fx 2.wav" by neezen., CC0, https://freesound.org/people/neezen./sounds/503804
+- swish/fs-14175-27-wav-1: "27.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14175
+- swish/fs-14176-28-wav-3: "28.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14176
+- swish/fs-14193-45-wav-1: "45.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14193
+- tap/own-ov-c154424d: es-stamp.wav by eddies2000, https://freesound.org/people/eddies2000/sounds/448474, CC0
+- tap/own-ov-e5f3310d: 17_stamp, rubber, plastic.wav (Freesound via Openverse e5f3310d), CC0
+- thump/fs-187136-body-fall-wav-1: "BodyFall.wav" by 000600, CC0, https://freesound.org/people/000600/sounds/187136
+- thump/fs-264879-three-dull-thumps-with-hamme-1: "Three dull thumps with hammer" by Mafon2, CC0, https://freesound.org/people/Mafon2/sounds/264879
+- thump/fs-389665-thump-close-wav-2: "Thump; close.wav" by TylerAM, CC0, https://freesound.org/people/TylerAM/sounds/389665
+- thump/fs-389999-thump-cloth-1: "thump- cloth" by morganveilleux, CC0, https://freesound.org/people/morganveilleux/sounds/389999
+- thump/fs-405537-thud-2-wav-1: "Thud 2.wav" by nebulasnails, CC0, https://freesound.org/people/nebulasnails/sounds/405537
+- thump/fs-454222-thud-pint-glass-beer-down-on-1: "thud pint glass beer down on table wood knock door Vows.flac" by kyles, CC0, https://freesound.org/people/kyles/sounds/454222
+- tick/fs-130388-clock-ticking-2: "Clock ticking" by olver, CC0, https://freesound.org/people/olver/sounds/130388
+- tick/fs-188033-ticking-clock-1: "Ticking Clock" by AntumDeluge, CC0, https://freesound.org/people/AntumDeluge/sounds/188033
+- tick/fs-403001-clock-tick-tik-tak-2: "Clock Tick (Tik Tak)" by KaosMakinesi, CC0, https://freesound.org/people/KaosMakinesi/sounds/403001
+- transition/fs-179779-wipe2-wav-1: "wipe2.wav" by Sclolex, CC0, https://freesound.org/people/Sclolex/sounds/179779
+- transition/fs-447494-a-wide-variety-of-wooshes-ma-3: "a wide variety of wooshes made by a human" by florianreichelt, CC0, https://freesound.org/people/florianreichelt/sounds/447494
+- transition/fs-582411-short-flashback-transition-1: "Short Flashback Transition" by SoshJam, CC0, https://freesound.org/people/SoshJam/sounds/582411
+- whoosh/fs-147281-fh-paper-swipe-surface2-long-1: "fh_Paper_Swipe_Surface2_Long_01.wav" by Frank1100, CC0, https://freesound.org/people/Frank1100/sounds/147281
+- whoosh/fs-147285-fh-paper-swipe-surface2-shor-1: "fh_Paper_Swipe_Surface2_Short_01.wav" by Frank1100, CC0, https://freesound.org/people/Frank1100/sounds/147285
+- whoosh/fs-30240-swoop1-flac-1: "swoop1.flac" by Streety, CC0, https://freesound.org/people/Streety/sounds/30240
+
+STRUMENTI DI PRODUZIONE (codice, licenza MIT; non sono materiali nel film)
+- Lemo-Opuscar (lemomo-ai/lemo-opuscar): motore di stampa riso (riso.js, draw.js adattati), strumenti di render e campionatore.
+- opus-sound-layer (Bodila51/opus-sound-layer): libreria di suoni CC0, mix e controllo dei suoni.
+
+Tutto il resto (disegni, personaggi, animazione) è fatto in codice per questo film. Il cliente è responsabile dei materiali che usa.

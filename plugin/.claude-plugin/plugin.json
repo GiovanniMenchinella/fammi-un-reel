@@ -1,0 +1,8 @@
+{
+  "name": "fammi-un-reel",
+  "version": "0.1.0",
+  "description": "Reel e pubblicità verticali animati, fatti interamente in codice, in tanti stili: la tua Claude scrive, disegna, monta e controlla.",
+  "author": { "name": "Potrai", "url": "https://www.potrai.com" },
+  "homepage": "https://www.potrai.com",
+  "license": "MIT"
+}

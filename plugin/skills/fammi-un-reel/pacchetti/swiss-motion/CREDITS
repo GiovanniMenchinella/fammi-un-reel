@@ -1,0 +1,54 @@
+«Ci devo pensare» — reel 1080×1920, stile Swiss Motion Graphics (libreria Lemo-Opuscar)
+
+Voce
+- Voce fuori campo fornita dal cliente: ElevenLabs, voce "GianP", modello eleven_multilingual_v2 (vo.mp3). Diritti d'uso secondo il piano ElevenLabs del cliente.
+
+Carattere
+- Inter Tight (variabile), © 2022 The Inter Project Authors — SIL Open Font License 1.1 (fonts/OFL-InterTight.txt). Fonte: github.com/google/fonts/tree/main/ofl/intertight
+
+Musica
+- Partitura originale scritta e sintetizzata in codice (numpy/scipy) per questo film, con gli strumenti della libreria Lemo-Opuscar: nessun campione di terzi.
+
+Effetti sonori (registrazioni vere, pubblico dominio CC0, scelte una per una e posate sul fotogramma con opus-sound-layer)
+- "[Kick] dubstep kick" by waveplaySFX, CC0, https://freesound.org/people/waveplaySFX/sounds/197462
+- "Deep hit" by CogFireStudios, CC0, https://freesound.org/people/CogFireStudios/sounds/636624
+- "ding.wav" by Daphne_in_Wonderland, CC0, https://freesound.org/people/Daphne_in_Wonderland/sounds/127149
+- "ding2.wav" by mrbriandesign, CC0, https://freesound.org/people/mrbriandesign/sounds/159011
+- "Glass ding" by Counter-gamer, CC0, https://freesound.org/people/Counter-gamer/sounds/404104
+- "Percussive Sounddesign 1 (F)" by Khoon, CC0, https://freesound.org/people/Khoon/sounds/150523
+- "Percussive Sounddesign 2 (F1)" by Khoon, CC0, https://freesound.org/people/Khoon/sounds/150566
+- "Punches and hits" by DSPena, CC0, https://freesound.org/people/DSPena/sounds/241950
+- "Punch impact sound.wav" by ms107, CC0, https://freesound.org/people/ms107/sounds/266823
+- "Vintage Keyboard 1" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194795
+- "Vintage Keyboard 2" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194796
+- "Vintage Keyboard 3" by jim-ph, CC0, https://freesound.org/people/jim-ph/sounds/194797
+- "MECH-KEYBOARD-01.wav" by newagesoup, CC0, https://freesound.org/people/newagesoup/sounds/348239
+- "Page Turn (2)" by OwlStorm, CC0, https://freesound.org/people/OwlStorm/sounds/151221
+- "Page Turn 03.wav" by MATRIXXX_, CC0, https://freesound.org/people/MATRIXXX_/sounds/397550
+- "Page Turn 04.wav" by MATRIXXX_, CC0, https://freesound.org/people/MATRIXXX_/sounds/397551
+- "Page Turn" by qubodup, CC0, https://freesound.org/people/qubodup/sounds/442857
+- "Page Slides - 1" by SpaceJoe, CC0, https://freesound.org/people/SpaceJoe/sounds/484920
+- "reverse fx 3.wav" by neezen., CC0, https://freesound.org/people/neezen./sounds/503801
+- "23.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14171
+- "27.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14175
+- "28.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14176
+- "45.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14193
+- "Double Swish" by deleted_user_6479820, CC0, https://freesound.org/people/deleted_user_6479820/sounds/388003
+- "Wood Knock" by Mrguff, CC0, https://freesound.org/people/Mrguff/sounds/369710
+- es-stamp.wav by eddies2000, https://freesound.org/people/eddies2000/sounds/448474, CC0
+- "Thump; close.wav" by TylerAM, CC0, https://freesound.org/people/TylerAM/sounds/389665
+- "thump- cloth" by morganveilleux, CC0, https://freesound.org/people/morganveilleux/sounds/389999
+- "Thud 2.wav" by nebulasnails, CC0, https://freesound.org/people/nebulasnails/sounds/405537
+- "thud pint glass beer down on table wood knock door Vows.flac" by kyles, CC0, https://freesound.org/people/kyles/sounds/454222
+- "Clock ticking" by olver, CC0, https://freesound.org/people/olver/sounds/130388
+- "Metal tick 1" by kubawolanin, CC0, https://freesound.org/people/kubawolanin/sounds/185611
+- "fh_Paper_Swipe_Surface2_Long_01.wav" by Frank1100, CC0, https://freesound.org/people/Frank1100/sounds/147281
+- "fh_Paper_Swipe_Surface2_Short_01.wav" by Frank1100, CC0, https://freesound.org/people/Frank1100/sounds/147285
+- "swoop1.flac" by Streety, CC0, https://freesound.org/people/Streety/sounds/30240
+- "whoosh_med_high" by DJT4NN3R, CC0, https://freesound.org/people/DJT4NN3R/sounds/449988
+
+Immagini
+- Tutto disegnato in codice (Canvas 2D). Nessuna immagine, foto o video di terzi.
+
+Strumenti
+- Lemo-Opuscar (render, controlli), opus-sound-layer (mix dei suoni e controllo qa.py), Chrome headless (Playwright), ffmpeg.

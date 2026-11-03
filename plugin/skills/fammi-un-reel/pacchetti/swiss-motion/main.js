@@ -1,0 +1,10 @@
+import { renderFilm, setTiming, buildEvents, TEXTS, DURATION } from './scene.js';
+const cv = document.getElementById('c'), g = cv.getContext('2d');
+await Promise.all(['500', '700', '800'].map(w => document.fonts.load(`${w} 40px "Inter Tight"`)));
+setTiming(await (await fetch('vo-timing.json')).json());
+window.DUR = DURATION();
+window.EV = buildEvents();
+window.TEXTS = TEXTS;
+const Q = new URLSearchParams(location.search);
+window.render = t => renderFilm(g, t, { poster: Q.has('poster') });
+window.READY = true;

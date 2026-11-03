@@ -1,0 +1,48 @@
+CREDITS — «Ci devo pensare» (reel verticale, inchiostro su carta di riso)
+
+Immagine: tutto disegnato in codice (pennello, carta, figure, ponte, sigillo), nessuna immagine esterna.
+
+Voce
+- vo.mp3: voce fornita dal cliente (ElevenLabs, voce "GianP"), usata così com'è.
+
+Musica (originale, scritta per questo film)
+- Guqin: modello fisico di corda pizzicata (core/audio/pluck.py), nessun campione.
+- Xiao: flauto respirato sintetizzato in codice.
+- Percussioni campionate: gran cassa, tamburo a cornice, gong piccolo, tom, woodblock —
+  Versilian Community Sample Library (VCSL), Versilian Studios, CC0.
+
+Ambiente (registrazioni vere, mescolate sotto la musica)
+- "a gentle breeze, wind 1" di mario1298, https://freesound.org/people/mario1298/sounds/181250 , CC0
+- "wind in the trees" (utente Freesound cancellato, id 229898), https://freesound.org/s/150174 , CC0
+
+Effetti sonori (registrazioni vere, pubblico dominio, posati sul fotogramma con opus-sound-layer)
+- boom/fs-13862-10-wav-1: "10.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/13862
+- boom/fs-636624-deep-hit-2: "Deep hit" by CogFireStudios, CC0, https://freesound.org/people/CogFireStudios/sounds/636624
+- hit/fs-550918-fxsa-sc-wood-tree-trunk-impa-2: "FXSaSc Wood Tree Trunk Impact Ground Forest 5 Variants" by Profispiesser, CC0, https://freesound.org/people/Profispiesser/sounds/550918
+- hit/fs-550918-fxsa-sc-wood-tree-trunk-impa-3: "FXSaSc Wood Tree Trunk Impact Ground Forest 5 Variants" by Profispiesser, CC0, https://freesound.org/people/Profispiesser/sounds/550918
+- paper/fs-140463-packaging-paper-rub-sliding-1: "Packaging Paper Rub Sliding Between Hands.wav" by afleetingspeck, CC0, https://freesound.org/people/afleetingspeck/sounds/140463
+- paper/fs-151221-page-turn-2-2: "Page Turn (2)" by OwlStorm, CC0, https://freesound.org/people/OwlStorm/sounds/151221
+- paper/fs-389442-paper-throw-into-air-fuller-3: "Paper Throw Into Air(fuller) 2.wav" by RossBell, CC0, https://freesound.org/people/RossBell/sounds/389442
+- paper/fs-397550-page-turn-03-wav-2: "Page Turn 03.wav" by MATRIXXX_, CC0, https://freesound.org/people/MATRIXXX_/sounds/397550
+- paper/fs-428338-underlining-stroke-on-paper-1: "Underlining Stroke on Paper" by zembacraftworks, CC0, https://freesound.org/people/zembacraftworks/sounds/428338
+- paper/fs-442857-page-turn-1: "Page Turn" by qubodup, CC0, https://freesound.org/people/qubodup/sounds/442857
+- reverse/fs-503805-reverse-fx-7-wav-1: "reverse fx 7.wav" by neezen., CC0, https://freesound.org/people/neezen./sounds/503805
+- swish/fs-14176-28-wav-2: "28.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14176
+- swish/fs-14176-28-wav-3: "28.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14176
+- swish/fs-14179-31-wav-2: "31.wav" by adcbicycle, CC0, https://freesound.org/people/adcbicycle/sounds/14179
+- tap/fs-369710-wood-knock: "Wood Knock" by Mrguff, CC0, https://freesound.org/people/Mrguff/sounds/369710
+- tap/own-ov-3b3af210: "Single Water Drop" by paespedro (freesound.org/people/paespedro/sounds/174718), CC0 1.0
+- tap/own-ov-c154424d: es-stamp.wav by eddies2000, https://freesound.org/people/eddies2000/sounds/448474, CC0
+- thump/fs-264879-three-dull-thumps-with-hamme-1: "Three dull thumps with hammer" by Mafon2, CC0, https://freesound.org/people/Mafon2/sounds/264879
+- thump/fs-389999-thump-cloth-1: "thump- cloth" by morganveilleux, CC0, https://freesound.org/people/morganveilleux/sounds/389999
+- thump/fs-675927-s03-22-two-body-falls-on-woo-2: "S03-22 Two body falls on wood.wav" by craigsmith, CC0, https://freesound.org/people/craigsmith/sounds/675927
+- transition/fs-234533-wet-transition-1: "Wet Transition" by Electroviolence, CC0, https://freesound.org/people/Electroviolence/sounds/234533
+- whoosh/fs-30240-swoop1-flac-1: "swoop1.flac" by Streety, CC0, https://freesound.org/people/Streety/sounds/30240
+- whoosh/fs-30241-swoop2g-flac-1: "swoop2g.flac" by Streety, CC0, https://freesound.org/people/Streety/sounds/30241
+- whoosh/fs-60010-multi-swing-bamboo-staff-wea-1: "Multi-Swing Bamboo Staff Weapon Attack" by qubodup, CC0, https://freesound.org/people/qubodup/sounds/60010
+- whoosh/fs-60010-multi-swing-bamboo-staff-wea-2: "Multi-Swing Bamboo Staff Weapon Attack" by qubodup, CC0, https://freesound.org/people/qubodup/sounds/60010
+
+Caratteri
+- Cormorant Garamond e Cormorant SC (Christian Thalmann), SIL Open Font License 1.1 — fonts/OFL-Cormorant.txt
+
+Chi usa il film è responsabile dei materiali che ci mette dentro.

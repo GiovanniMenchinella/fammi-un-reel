@@ -1,0 +1,36 @@
+{
+ "_doc": "Per-event-id sound overrides (ids from events.json 'sfx'). Rewrite for a new reel; events without an entry use the rotation ROT[kind] in tools/cues.py.",
+ "by_id": {
+  "pullOpen": "whoosh/fs-147281-fh-paper-swipe-surface2-long-1",
+  "pullStart": "whoosh/fs-147281-fh-paper-swipe-surface2-long-1",
+  "pushEnd": "whoosh/fs-147285-fh-paper-swipe-surface2-shor-1",
+  "pullFlood": "whoosh/fs-147285-fh-paper-swipe-surface2-shor-1",
+  "panCell": "whoosh/fs-147285-fh-paper-swipe-surface2-shor-1",
+  "pushOne": "whoosh/fs-30240-swoop1-flac-1",
+  "pushEnd2": "whoosh/fs-449988-whoosh-med-high-1",
+  "under": "swish/fs-388003-double-swish-1",
+  "price": "thump/fs-405537-thud-2-wav-1",
+  "redprice": "chime/fs-159011-ding2-wav-1",
+  "rows": "paper/fs-397550-page-turn-03-wav-2",
+  "endcut": "swish/fs-14175-27-wav-1",
+  "reflow": "paper/fs-397550-page-turn-03-wav-2",
+  "dueKey": "key/fs-348239-mech-keyboard-01-wav-1",
+  "pushCell": "whoosh/fs-449988-whoosh-med-high-1",
+  "five": "hit/fs-266823-punch-impact-sound-wav-1+thump/fs-389665-thump-close-wav-2",
+  "inizio": "chime/fs-404104-glass-ding-1+thump/fs-389999-thump-cloth-1",
+  "tardi": "hit/fs-266823-punch-impact-sound-wav-1+boom/fs-197462-kick-dubstep-kick-1",
+  "zitto": "hit/fs-150523-percussive-sounddesign-1-f-3+boom/fs-636624-deep-hit-2",
+  "dopo": "hit/fs-150566-percussive-sounddesign-2-f1-2+boom/fs-636624-deep-hit-2"
+ },
+ "silence_ok": [
+  [
+   12.5,
+   13.45
+  ],
+  [
+   41.95,
+   43.3
+  ]
+ ],
+ "_silence_doc": "[start,end] seconds where the picture is deliberately silent (QA won't flag them)"
+}
