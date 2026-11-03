@@ -3,7 +3,7 @@ CREDITS — «Ci devo pensare» (reel verticale, inchiostro su carta di riso)
 Immagine: tutto disegnato in codice (pennello, carta, figure, ponte, sigillo), nessuna immagine esterna.
 
 Voce
-- vo.mp3: voce fornita dal cliente (ElevenLabs, voce "GianP"), usata così com'è.
+- vo.mp3: la voce del reel (ElevenLabs con la chiave di chi lo fa, o una sua registrazione).
 
 Musica (originale, scritta per questo film)
 - Guqin: modello fisico di corda pizzicata (core/audio/pluck.py), nessun campione.

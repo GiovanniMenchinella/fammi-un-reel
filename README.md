@@ -16,7 +16,7 @@ Tutto gira sul tuo computer, con il tuo abbonamento Claude. Non serve una scheda
 ## Installazione
 
 ```sh
-claude plugin marketplace add <account>/fammi-un-reel
+claude plugin marketplace add GiovanniMenchinella/fammi-un-reel
 claude plugin install fammi-un-reel@potrai
 ```
 
