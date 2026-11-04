@@ -11,6 +11,7 @@ OUT="${REEL%.*}-look"
 ARGS=(--out "$OUT"); [ -n "$SEC" ] && ARGS+=(--expect "$SEC"); [ "$AUD" = "--audio" ] && ARGS+=(--expect-audio)
 # look.py scrive le etichette con drawtext: usa il primo ffmpeg che lo ha
 for d in "$HOME/.local/bin" /opt/homebrew/bin /usr/local/bin /usr/bin; do
-  if [ -x "$d/ffmpeg" ] && "$d/ffmpeg" -hide_banner -filters 2>/dev/null | grep -q drawtext; then PATH="$d:$PATH"; break; fi
+  # (niente grep -q in pipe: con pipefail il SIGPIPE di ffmpeg farebbe fallire il controllo)
+  if [ -x "$d/ffmpeg" ] && [[ "$("$d/ffmpeg" -hide_banner -filters 2>/dev/null)" == *drawtext* ]]; then PATH="$d:$PATH"; break; fi
 done
 python3 "$MM/scripts/look.py" "$REEL" "${ARGS[@]}"
