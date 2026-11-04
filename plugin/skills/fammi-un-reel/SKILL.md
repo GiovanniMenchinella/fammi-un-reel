@@ -5,7 +5,7 @@ description: Produce un reel/short/pubblicità verticale 1080×1920 fatto intera
 
 # Fammi un reel
 
-Rispondi nella lingua dell'utente, con parole semplici. Non fare domande sul contenuto: deduci e scrivi le assunzioni in cima.
+Rispondi nella lingua dell'utente, con parole semplici. Le scelte (idea, gancio, copione, stile) le fa l'utente: fai le domande che i passi chiedono, il resto deducilo.
 `<SKILL>` = la cartella di questo file. Serve un account Potrai: il metodo arriva dal server `potrai` (MCP) un passo alla volta.
 
 ## Prima volta (e dopo ogni aggiornamento del plugin)
