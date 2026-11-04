@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Stili dei reel</title>
+<style>
+  :root { --bg:#f6f3ee; --carta:#ffffff; --testo:#1d1b18; --piano:#6b655c; --linea:#e4ded4; --accento:#c8553d; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#151412; --carta:#1f1d1a; --testo:#f1ece4; --piano:#a59d91; --linea:#2f2c28; --accento:#e07a5f; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--testo); font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:1080px; margin:0 auto; padding:40px 16px 64px; }
+  h1 { font-size:clamp(28px,5vw,44px); line-height:1.1; margin:0 0 8px; letter-spacing:-.02em; }
+  .sotto { color:var(--piano); margin:0 0 32px; max-width:640px; }
+  .griglia { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:20px; }
+  .stile { background:var(--carta); border:1px solid var(--linea); border-radius:16px; overflow:hidden; display:flex; flex-direction:column; }
+  .stile video { width:100%; aspect-ratio:9/16; object-fit:cover; display:block; background:#000; }
+  .info { padding:16px 18px 18px; }
+  .info h2 { margin:0 0 4px; font-size:20px; }
+  .info p { margin:0 0 12px; color:var(--piano); font-size:15px; }
+  .info code { display:inline-block; background:var(--bg); border:1px solid var(--linea); border-radius:8px; padding:3px 8px; font-size:14px; }
+  .presto { margin-top:32px; padding:18px; border:1px dashed var(--linea); border-radius:16px; color:var(--piano); }
+  .presto b { color:var(--testo); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Gli stili dei tuoi reel</h1>
+  <p class="sotto">Ogni reel è disegnato interamente in codice. Scegli lo stile che ti piace e dillo a Claude: «fammi un reel in stile risografia su…». Se non lo scegli, te lo chiede lui.</p>
+  <div class="griglia">
+    <article class="stile">
+      <video src="risograph.mp4" poster="risograph.jpg" autoplay muted loop playsinline></video>
+      <div class="info"><h2>Risografia</h2><p>Stampa a due inchiostri con la grana. Personaggi e oggetti illustrati, colori pieni. Fa sorridere e si ricorda.</p><code>risograph</code></div>
+    </article>
+    <article class="stile">
+      <video src="swiss-motion.mp4" poster="swiss-motion.jpg" autoplay muted loop playsinline></video>
+      <div class="info"><h2>Swiss motion</h2><p>Griglia, tipografia grande, forme piatte che si muovono a tempo. Pulito e autorevole, ottimo per spiegare.</p><code>swiss-motion</code></div>
+    </article>
+    <article class="stile">
+      <video src="ink-wash.mp4" poster="ink-wash.jpg" autoplay muted loop playsinline></video>
+      <div class="info"><h2>Inchiostro</h2><p>Pennello e acquerello su carta, paesaggi e sigilli rossi. Calmo ed elegante, per storie e riflessioni.</p><code>ink-wash</code></div>
+    </article>
+  </div>
+  <div class="presto"><b>Altri stili in arrivo</b> con gli aggiornamenti del plugin: pittura a olio, collage di carta, fumetto, stampa giapponese e molti altri.</div>
+</main>
+</body>
+</html>
