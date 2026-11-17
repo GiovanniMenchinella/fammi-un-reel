@@ -3,7 +3,7 @@
 Questo plugin contiene solo il lavoro di Potrai (istruzioni, regole, pacchetti di stile, script) sotto licenza MIT.
 Le librerie qui sotto NON sono copiate nel repository: `setup.sh` le scarica dai loro GitHub ufficiali.
 
-- **Lemo-Opuscar** di LemoLab — https://github.com/lemomo-ai/lemo-opuscar
+- **Lemo-Opuscar** di LemoLab — https://github.com/lemomo-ai/lemo-opuscar (licenza MIT completa in `NOTICE`)
   Codice e guide: MIT. Film dimostrativi e fotogrammi: CC BY 4.0.
   I pacchetti `risograph`, `swiss-motion` e `ink-wash` partono dagli stili omonimi della libreria (motori adattati e modificati da Potrai).
   I film che fai con la libreria sono tuoi. Non riusare le tre tracce voce escluse dalla loro licenza (Game Show Flat, Paper-cut Lightbox, Broadcast News Package).

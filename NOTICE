@@ -1,0 +1,51 @@
+fammi-un-reel
+Copyright (c) 2026 Potrai — MIT License (see LICENSE)
+
+This repository contains software derived from third-party works.
+The required notices follow.
+
+------------------------------------------------------------------------
+Lemo-Opuscar — https://github.com/lemomo-ai/lemo-opuscar
+The style packages in plugin/skills/fammi-un-reel/pacchetti/ (risograph,
+swiss-motion, ink-wash) are adapted and modified from the homonymous styles
+of Lemo-Opuscar. Code and guides: MIT (below). Demo films and frames of
+Lemo-Opuscar are licensed CC BY 4.0 by LemoLab
+(https://creativecommons.org/licenses/by/4.0/) and are NOT included here.
+The three voice tracks excluded by the Lemo-Opuscar license (Game Show Flat,
+Paper-cut Lightbox, Broadcast News Package) are not included and must not be reused.
+
+MIT License
+
+Copyright (c) 2026 LemoLab
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+------------------------------------------------------------------------
+opus-sound-layer — https://github.com/Bodila51/opus-sound-layer
+Not included in this repository: downloaded by setup.sh. Code: MIT
+(Copyright (c) 2026 Bodila51). Sound kit: CC0 (Kenney, Freesound);
+the sounds used by each style package are listed in its CREDITS file.
+
+------------------------------------------------------------------------
+motionmaxxing — https://github.com/Tejashmakwana/motionmaxxing
+Not included in this repository: downloaded by setup.sh. Apache-2.0.
+
+------------------------------------------------------------------------
+Fonts (SIL Open Font License 1.1, license text next to each font file):
+Jost, Bricolage Grotesque, Inter Tight, Cormorant.
