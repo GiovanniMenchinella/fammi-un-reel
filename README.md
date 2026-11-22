@@ -39,11 +39,14 @@ claude plugin install fammi-un-reel@potrai
 
 ## Collega il tuo account Potrai
 
-Il plugin si collega da solo al server di Potrai (`https://app.potrai.com/api/mcp`). La prima volta devi solo accedere:
+Il plugin si collega da solo al server di Potrai (`https://clip.potrai.com/api/mcp`). La prima volta devi solo accedere:
 
 1. In Claude Code scrivi `/mcp`
 2. Scegli quello che si chiama **potrai** (può comparire come `plugin:fammi-un-reel:potrai`) e poi **Authenticate**
-3. Si apre il browser: entra col tuo account Potrai e conferma
+3. Si apre il browser: entra col tuo account da creator di Potrai (lo stesso di clip.potrai.com) e conferma
+
+Se l'avevi già collegato prima (al vecchio indirizzo app.potrai.com): aggiorna il plugin con
+`claude plugin update fammi-un-reel@potrai` e rifai **Authenticate** da `/mcp`: il vecchio collegamento non funziona più.
 
 ## Primo comando
 

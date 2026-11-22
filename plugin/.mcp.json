@@ -1,5 +1,5 @@
 {
   "mcpServers": {
-    "potrai": { "type": "http", "url": "https://app.potrai.com/api/mcp" }
+    "potrai": { "type": "http", "url": "https://clip.potrai.com/api/mcp" }
   }
 }
